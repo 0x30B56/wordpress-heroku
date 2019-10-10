@@ -1,0 +1,8 @@
+{
+  "name": "搭建wordpress",
+  "description": "基于heroku",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/0x30B56/wordpress-heroku/",
+  "keywords": ["nodejs", "GFW-bypass"],
+  "website": ""
+}
